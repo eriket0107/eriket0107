@@ -1,7 +1,7 @@
 ### Hello there! I'm Erik!! 👋😁
 
 <h2>Eager and motived to build and improve my skills as a person and as a full-stack web developer by challenging myself through inspiring proejcts and new ideas.</h2>
-<h3>🎯 For now this is where I am:</h3>
+<h3>📌 For now this is where I am:</h3>
 
 <h3 style="text-align: left;">🔭 I’m currently studying Web Development nd software development techniques with all the most impactating technologies currently available</h3>
 <br>
@@ -66,7 +66,7 @@
   </a>
           
 </p>
-<h3 style="text-align: left;"> I’m really excited to learn: </h3>
+<h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
   </a>
