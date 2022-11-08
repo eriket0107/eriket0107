@@ -5,7 +5,7 @@
 
 <h3 style="text-align: left;">🔭 I’m currently studying about Web Development and techniques about Software Development through all the most impactating technologies that are current avaible</h3>
 <br>
-<h3 style="text-align: left;">💬 Come ask me about anythig, I would be pleasured to speak with you!</h3>
+<h3 style="text-align: left;">💬 Come ask me about anything, I would be pleasured to speak with you!</h3>
 <br>
 <h3 style="text-align: left;">⚡ All that I've study and worked with: </h3>
 <a href="https://www.w3.org/html/" target="_blank">
@@ -29,9 +29,12 @@
    <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-   <a href="https://www.cypress.io/" target="_blank"> 
+  <a href="https://trello.com/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/91575045/200572317-1584973d-a71c-40bc-a368-c0c5ab1bba3f.png" alt="express" width="40" height="40"/>
   </a>
+  <a href="https://www.cypress.io/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
+  </a>  
 <h3 style="text-align: left;">🌱 I’m currently learning about</h3>
 <br>
   <a href="https://reactjs.org/" target="_blank">
