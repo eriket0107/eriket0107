@@ -50,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
   </a>
    <a href="https://webpack.js.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="webpack" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40"/>
@@ -89,6 +89,9 @@
   </a>
   <a href="https://tailwindcss.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   </a>
 <br>
 
