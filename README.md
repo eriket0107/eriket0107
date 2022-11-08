@@ -41,6 +41,9 @@
   <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
   </a>  
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="html5" width="40" height="40"/> 
+  </a>  
 <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
 <br>
   <a href="https://reactjs.org/" target="_blank">
@@ -64,7 +67,9 @@
   <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" / width="40" height="40"/>
   </a>
-          
+ <a href="https://www.docker.com/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
+  </a>  
 </p>
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
  <a href="https://reactnative.dev/" target="_blank">
