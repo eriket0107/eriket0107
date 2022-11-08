@@ -44,7 +44,7 @@
 <h3 style="text-align: left;">🌱 I’m currently learning about</h3>
 <br>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
   </a>
    <a href="https://webpack.js.org" target="_blank">
     <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" alt="webpack" width="40" height="40"/>
