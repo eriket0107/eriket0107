@@ -1,4 +1,4 @@
-### Hi there! I'm Erik!! 👋
+### Hello there! I'm Erik!! 👋😁
 
 <h2>Eager and motived to build and improve my skills as person and as full-stack web developer by challenging myself through inspiring proejcts and new ideas.</h2>
 <h3>For now this is where I am:</h3>
