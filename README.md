@@ -66,6 +66,21 @@
   </a>
           
 </p>
+<h3 style="text-align: left;"> I’m really excited to learn about</h3>
+ <a href="https://reactnative.dev/" target="_blank">
+   <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" / width="40" height="40"/>
+  </a>
+   <a href="https://nextjs.org/" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" / width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
+<a href="https://graphql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+  </a>
+<br>
+
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
