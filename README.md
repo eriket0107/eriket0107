@@ -4,7 +4,11 @@
 <h3>For now this is where I am:</h3>
 
 - 🔭 I’m currently working at studying techniques about Software Engineering through all the most impactating technologies that are current avaible
-- 🌱 I’m currently learning about 
+- 💬 Come ask me about anythig, it would be pleasure to chat with you!
+- ⚡ All that I've study and worked with:
+
+<h3 style="text-align: left;">🌱 I’m currently learning about</h3>
+ 
 <br>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -32,10 +36,6 @@
   </a>
           
 </p>
-
-- 💬 Come ask me about anythig, it would be pleasure to chat with you!
-- ⚡ All that I've study and worked with:
-
 <h3 style="text-align: left;">As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
