@@ -3,7 +3,7 @@
 <h2>Eager and motived to build and improve my skills as a person and as a full-stack web developer by challenging myself through inspiring proejcts and new ideas.</h2>
 <h3>For now this is where I am:</h3>
 
-<h3 style="text-align: left;">🔭 I’m currently studying about Web Development and techniques about Software Development through all the most impactating technologies that are current avaible</h3>
+<h3 style="text-align: left;">🔭 I’m currently studying Web Development and techniques Software Development through all the most impactating technologies that are current avaible</h3>
 <br>
 <h3 style="text-align: left;">💬 Come ask me about anything, I would be pleasured to speak with you!</h3>
 <br>
@@ -41,7 +41,7 @@
   <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
   </a>  
-<h3 style="text-align: left;">🌱 I’m currently learning about</h3>
+<h3 style="text-align: left;">🌱 I’m currently learning:</h3>
 <br>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
@@ -66,7 +66,7 @@
   </a>
           
 </p>
-<h3 style="text-align: left;"> I’m really excited to learn about</h3>
+<h3 style="text-align: left;"> I’m really excited to learn: </h3>
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
   </a>
