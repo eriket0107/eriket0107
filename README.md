@@ -74,7 +74,6 @@
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
   </a>  
-</p>
 <br>
 <br>
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
