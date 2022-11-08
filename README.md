@@ -39,7 +39,7 @@
     <img src="https://user-images.githubusercontent.com/91575045/200572317-1584973d-a71c-40bc-a368-c0c5ab1bba3f.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.cypress.io/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
+    <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
   </a>  
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="html5" width="40" height="40"/> 
