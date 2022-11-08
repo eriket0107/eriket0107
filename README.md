@@ -69,11 +69,15 @@
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="klaussVP" height="30" width="40" />
+    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="klaussVP" height="30" width="40" />
+    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"height="30" width="40" />
   </a>
+   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
+    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" />
+  </a>
+  <a href = "mailto:ol.erik0107@gmail.com"><img style="text-align: center;" src="![image](https://user-images.githubusercontent.com/91575045/200581814-cc3a12c2-43ad-4705-a3ed-56c1fcc16ac1.png"  height="30" width="40" /></a>
 </p>
 <p style="text-align: left;">
 
