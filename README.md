@@ -5,7 +5,7 @@
 
 <h3 style="text-align: left;">🔭 I’m currently studying Web Development nd software development techniques with all the most impactating technologies currently available</h3>
 <br>
-<h3 style="text-align: left;">💬 Come ask me about anything, I would be pleasured to speak with you!</h3>
+<h3 style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</h3>
 <br>
 <h3 style="text-align: left;">🧠 
   <a href="https://www.rocketseat.com.br/" target="_blank">
