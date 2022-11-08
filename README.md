@@ -69,14 +69,14 @@
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram logo 2016.svg" height="30" width="30" />
       
   </a>
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" />
+    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
     <br>
   </a>
  
