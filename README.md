@@ -13,7 +13,9 @@
   </a>
 </h3>
 <br>
+<br>
 <h3 style="text-align: left;">⚡ All that I studied and worked with: </h3>
+<br>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -44,6 +46,8 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="html5" width="40" height="40"/> 
   </a>  
+  <br>
+  <br>
 <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
 <br>
   <a href="https://reactjs.org/" target="_blank">
@@ -71,7 +75,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
   </a>  
 </p>
+<br>
+<br>
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
+<br>
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
   </a>
