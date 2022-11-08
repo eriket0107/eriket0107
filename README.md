@@ -68,7 +68,7 @@
 </p>
 <h3 style="text-align: left;"> I’m really excited to learn about</h3>
  <a href="https://reactnative.dev/" target="_blank">
-   <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" / width="40" height="40"/>
+   <img src="https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png" / width="40" height="40"/>
   </a>
    <a href="https://nextjs.org/" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" / width="40" height="40"/>
