@@ -3,8 +3,10 @@
 <h2>I'm eager and motived to build and improve my skills as person and as full-stack web developer by challenging myself with inspiring proejcts.</h2>
 <h3>For now this is where I am:</h3>
 
-- 🔭 I’m currently working at studying techniques about Software Engineering through all the most impactating technologies that are current avaible
-- 💬 Come ask me about anythig, it would be pleasure to chat with you!
+<h3 style="text-align: left;">🔭 I’m currently working at studying techniques about Software Engineering through all the most impactating technologies that are current avaible</h3>
+<br>
+<h3 style="text-align: left;">💬 Come ask me about anythig, it would be pleasure to chat with you!</h3>
+<br>
 <h3 style="text-align: left;">⚡ All that I've study and worked with: </h3>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
