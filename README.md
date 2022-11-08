@@ -77,7 +77,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
 <a href="https://graphql.org/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
   </a>
 <br>
 
@@ -87,8 +93,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
-   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram logo 2016.svg" height="30" width="30" />
-      
+   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram logo 2016.svg" height="30" width="30" />   
+  </a>
+  <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
+   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram logo 2016.svg" height="30" width="30" />   
   </a>
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
     <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
