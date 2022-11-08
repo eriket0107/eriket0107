@@ -74,10 +74,8 @@
   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
     <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"height="30" width="40" />
   </a>
-   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" />
-  </a>
-  <a href = "mailto:ol.erik0107@gmail.com"><img style="text-align: center;" src="https://icons8.com.br/icon/ZsqwnJaWUi9o/gmail"  height="40" width="40" /></a>
+   
+  <a href = "mailto:ol.erik0107@gmail.com"><img style="text-align: center;" src="https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg"  height="40" width="40" /></a>
 </p>
 <p style="text-align: left;">
 
