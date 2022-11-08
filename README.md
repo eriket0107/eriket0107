@@ -9,8 +9,8 @@
 <br>
 <h3 style="text-align: left;">🧠 
   <a href="https://www.rocketseat.com.br/" target="_blank">
-     Rocketseat  🚀
-  </a>
+    <img src="https://yt3.ggpht.com/ytc/AMLnZu9-n9mDtKOwVMx3_-2zr8H57lHFag5t-0JcJNFPUQ=s900-c-k-c0x00ffffff-no-rj" width="40" height="40"/>
+   </a>
 </h3>
 <br>
 <h3 style="text-align: left;">⚡ All that I studied and worked with: </h3>
