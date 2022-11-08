@@ -75,7 +75,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram logo 2016.svg" height="30" width="40" />
   </a>
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" />
+    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
     <br>
   
   </a>
