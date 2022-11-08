@@ -72,7 +72,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"height="30" width="40" />
+    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png "height="30" width="40" />
   </a>
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
     <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" />
