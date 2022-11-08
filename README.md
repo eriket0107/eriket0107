@@ -5,7 +5,7 @@
 
 <h3 style="text-align: left;">🔭 I’m currently working at studying techniques about Software Engineering through all the most impactating technologies that are current avaible</h3>
 <br>
-<h3 style="text-align: left;">💬 Come ask me about anythig, it would be pleasure to chat with you!</h3>
+<h3 style="text-align: left;">💬 Come ask me about anythig, I would be pleasured to speak with you!</h3>
 <br>
 <h3 style="text-align: left;">⚡ All that I've study and worked with: </h3>
 <a href="https://www.w3.org/html/" target="_blank">
@@ -27,7 +27,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
 <h3 style="text-align: left;">🌱 I’m currently learning about</h3>
- 
 <br>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
