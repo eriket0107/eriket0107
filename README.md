@@ -13,7 +13,6 @@
   </a>
 </h3>
 <br>
-<br>
 <h3 style="text-align: left;">⚡ All that I studied and worked with: </h3>
 <br>
 <a href="https://www.w3.org/html/" target="_blank">
