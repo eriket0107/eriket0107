@@ -3,7 +3,7 @@
 <h2>Eager and motived to build and improve my skills as a person and as a full-stack web developer by challenging myself through inspiring proejcts and new ideas.</h2>
 <h3>For now this is where I am:</h3>
 
-<h3 style="text-align: left;">🔭 I’m currently studying Web Development and techniques Software Development through all the most impactating technologies that are current avaible</h3>
+<h3 style="text-align: left;">🔭 I’m currently studying Web Development nd software development techniques with all the most impactating technologies currently available</h3>
 <br>
 <h3 style="text-align: left;">💬 Come ask me about anything, I would be pleasured to speak with you!</h3>
 <br>
