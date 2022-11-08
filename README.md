@@ -9,7 +9,7 @@
 <br>
 <h3 style="text-align: left;">🧠 
   <a href="https://www.rocketseat.com.br/" target="_blank">
-    <img src="https://miro.medium.com/max/1200/1*fs0ScMc45X9QEwno8G414A.png"/>
+    <img src="https://miro.medium.com/max/1200/1*fs0ScMc45X9QEwno8G414A.png" width="120" height="62/>
    </a>
 </h3>
 <br>
