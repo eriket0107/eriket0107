@@ -7,7 +7,7 @@
 <br>
 <h3 style="text-align: left;">💬 Come ask me about anything, I would be pleasured to speak with you!</h3>
 <br>
-<h3 style="text-align: left;"> Improving my skills through @rocketseat knowlegdes and courses </h3>
+<h3 style="text-align: left;">🧠 Improving my skills through @rocketseat knowlegdes</h3>
 <br>
 <h3 style="text-align: left;">⚡ All that I've study and worked with: </h3>
 <a href="https://www.w3.org/html/" target="_blank">
