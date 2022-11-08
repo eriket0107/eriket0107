@@ -72,7 +72,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram logo 2016.svg"></a><br>Por Instagram - &lt;span class="int-own-work" lang="pt"&gt;Obra do próprio&lt;/span&gt;, Domínio público, <a href="https://commons.wikimedia.org/w/index.php?curid=48863359" height="30" width="40" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Instagram logo 2016.svg">
   </a>
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
     <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" />
