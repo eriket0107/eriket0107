@@ -23,8 +23,14 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="github.com" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+   <a href="https://www.cypress.io/" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/91575045/200572317-1584973d-a71c-40bc-a368-c0c5ab1bba3f.png" alt="express" width="40" height="40"/>
   </a>
 <h3 style="text-align: left;">🌱 I’m currently learning about</h3>
 <br>
@@ -42,9 +48,6 @@
   </a>
    <a href="https://expressjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-   <a href="https://www.cypress.io/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/91575045/200572317-1584973d-a71c-40bc-a368-c0c5ab1bba3f.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://insomnia.rest/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
