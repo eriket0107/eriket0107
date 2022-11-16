@@ -76,7 +76,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" / width="40" height="40"/>
   </a>
   <a href="https://knexjs.org/" target="_blank">
-   <img src="file:///C:/Users/ara-j/AppData/Local/Temp/Rar$DIa14800.47536/knexjs-seeklogo.com.svg" / width="40" height="40"/>
+   <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
   </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
