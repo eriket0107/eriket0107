@@ -69,8 +69,14 @@
   <a href="https://insomnia.rest/" target="_blank">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" / width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" / width="40" height="40"/>
+  </a>
+  <a href="https://knexjs.org/" target="_blank">
+   <img src="file:///C:/Users/ara-j/AppData/Local/Temp/Rar$DIa14800.47536/knexjs-seeklogo.com.svg" / width="40" height="40"/>
   </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
