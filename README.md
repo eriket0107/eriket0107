@@ -75,16 +75,13 @@
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
   </a>  
+  <a href="https://vitejs.dev/" target="_blank">
+   <img src="https://www.svgrepo.com/show/354521/vitejs.svg" width="40" height="40"/> 
+  </a>  
 <br>
 <br>
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
 <br>
- <a href="https://webpack.js.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank"> 
-    <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40"/>
-  </a>
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
   </a>
