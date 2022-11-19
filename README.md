@@ -78,6 +78,9 @@
   <a href="https://vitejs.dev/" target="_blank">
    <img src="https://www.svgrepo.com/show/354521/vitejs.svg" width="40" height="40"/> 
   </a>  
+  <a href="https://styled-components.com/" target="_blank">
+   <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="40" height="40"/> 
+  </a>  
 <br>
 <br>
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
