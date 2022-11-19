@@ -46,6 +46,21 @@
   </a>  
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"alt="html5" width="40" height="40"/> 
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
+  </a>
+   <a href="https://expressjs.com" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  </a>
+<a href="https://insomnia.rest/" target="_blank">
+    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
+  </a>
+ <a href="https://www.sqlite.org/index.html" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" / width="40" height="40"/>
+  </a>
+ <a href="https://knexjs.org/" target="_blank">
+   <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
+  </a>
   </a>  
   <br>
   <br>
@@ -54,23 +69,8 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
-  </a>
-   <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://insomnia.rest/" target="_blank">
-    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" / width="40" height="40"/>
-  </a>
   <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" / width="40" height="40"/>
-  </a>
-  <a href="https://knexjs.org/" target="_blank">
-   <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
   </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
