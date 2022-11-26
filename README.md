@@ -1,6 +1,7 @@
 ### Hello there! I'm Erik!! 👋😁
 
-<h2>Eager and motived to build and improve my skills as a person and as a full-stack developer by challenging myself through inspiring projects and new ideas.</h2>
+<h2>I'm a young developer professional interested in technology and diferents subjects related with this enviroment, mainly software & application development. 
+Building a career in this area improving my skills as a person and full-stack developer challenging myself with new projects and inspiring ideas.</h2>
 <h3>📌 For now this is where I am:</h3>
 
 <h3 style="text-align: left;">🔭 I’m currently studying Web Development and software development techniques with all the most impactating technologies currently available</h3>
