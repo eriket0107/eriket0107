@@ -1,6 +1,6 @@
 ### Hello there! I'm Erik!! 👋😁
 
-<h2>I'm a young developer professional interested in technology and diferents subjects related with this enviroment, mainly software & application development. 
+<h2>I'm a young developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. 
 Building a career in this area by improving my skills as a person and full-stack developer challenging myself with new projects and inspiring ideas.</h2>
 <h3>📌 For now this is where I am:</h3>
 
