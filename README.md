@@ -12,6 +12,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <br>
 <hr>
+
 #### Frontend:
 
 <a href="https://www.w3.org/html/" target="_blank">
@@ -29,6 +30,7 @@ Building a career in this area by improving my skills as a person and full-stack
     
 <br>
 <hr>
+
 #### Backend: 
 
 <a href="https://nodejs.org" target="_blank"> 
