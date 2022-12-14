@@ -50,7 +50,7 @@ Building a career in this area by improving my skills as a person and full-stack
    <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
   </a>
 <br>
-#### Tests:
+### Tests
 <br>
 <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
@@ -59,7 +59,7 @@ Building a career in this area by improving my skills as a person and full-stack
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
   </a>
 <br>
-#### Version Code Control:
+### Version Code Control:
 <br>
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
