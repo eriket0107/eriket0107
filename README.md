@@ -60,7 +60,6 @@ Building a career in this area by improving my skills as a person and full-stack
     <img src="https://www.jetbrains.com/webstorm/guide/static/5fffc5841d0abba2e6684f13fe6d003f/jest.svg" width="40" height="40"/>
   </a>  
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
-<br>
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
   </a>
