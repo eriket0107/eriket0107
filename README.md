@@ -52,7 +52,7 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
 <br>
 
-### Tests
+### Tests:
 
 <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
