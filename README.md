@@ -8,14 +8,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 <h3 style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</h3>
 <br>
-<h3 style="text-align: left;">🧠 Course:
-  <br>
-  <br>
-  <a href="https://www.rocketseat.com.br/" target="_blank">
-    <img src="https://miro.medium.com/max/1200/1*fs0ScMc45X9QEwno8G414A.png" width="120" height="62"/>
-   </a>
-</h3>
-<br>
+
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <br>
 
