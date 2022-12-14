@@ -102,7 +102,7 @@ Building a career in this area by improving my skills as a person and full-stack
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" / width="40" height="40"/>
   </a>
 <br>
-
+<hr>
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
