@@ -11,7 +11,7 @@ Building a career in this area by improving my skills as a person and full-stack
 
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <br>
-
+<hr>
 #### Frontend:
 
 <a href="https://www.w3.org/html/" target="_blank">
@@ -26,9 +26,9 @@ Building a career in this area by improving my skills as a person and full-stack
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
   </a>
-     
+    
 <br>
-
+<hr>
 #### Backend: 
 
 <a href="https://nodejs.org" target="_blank"> 
