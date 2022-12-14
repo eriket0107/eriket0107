@@ -16,7 +16,7 @@ Building a career in this area by improving my skills as a person and full-stack
    </a>
 </h3>
 <br>
-<h3 style="text-align: left;">☂️ All my stack: </h3>
+<h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <br>
 
 ### Frontend:
