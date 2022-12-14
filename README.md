@@ -68,9 +68,14 @@ Building a career in this area by improving my skills as a person and full-stack
   <br>
 <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
 <br>
- 
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
+  </a>
+<a href="https://jestjs.io/pt-BR/" target="_blank"> 
+    <img src="https://www.jetbrains.com/webstorm/guide/static/5fffc5841d0abba2e6684f13fe6d003f/jest.svg" width="40" height="40"/>
   </a>  
 <br>
 <br>
@@ -81,9 +86,6 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
    <a href="https://nextjs.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
   <a href="https://graphql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
