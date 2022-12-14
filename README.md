@@ -20,7 +20,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 
 ### Frontend:
-<br>
+
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -37,7 +37,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 
 ### Backend: 
-<br>
+
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
   </a>
@@ -53,7 +53,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 
 ### Tests
-<br>
+
 <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
   </a>
