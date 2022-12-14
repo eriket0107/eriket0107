@@ -56,7 +56,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <a href="https://insomnia.rest/" target="_blank">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
   </a>
-<h4 style="text-align: left;"Version Code Control: </h4>
+<h4 style="text-align: left;">Version Code Control: </h4>
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
