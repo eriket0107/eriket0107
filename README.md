@@ -9,9 +9,9 @@ Building a career in this area by improving my skills as a person and full-stack
 <h3 style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</h3>
 <br>
 
-<h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
-<br>
 <hr>
+
+<h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 
 #### Frontend:
 
