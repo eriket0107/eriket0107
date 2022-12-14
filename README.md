@@ -18,7 +18,8 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 <h3 style="text-align: left;">☂️ All my stack: </h3>
 <br>
-### Frontend:
+
+#### Frontend:
 <br>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -50,6 +51,7 @@ Building a career in this area by improving my skills as a person and full-stack
    <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
   </a>
 <br>
+
 ### Tests
 <br>
 <a href="https://www.cypress.io/" target="_blank"> 
@@ -59,6 +61,7 @@ Building a career in this area by improving my skills as a person and full-stack
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
   </a>
 <br>
+
 ### Version Code Control:
 <br>
 <a href="https://git-scm.com/" target="_blank"> 
