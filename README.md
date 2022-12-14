@@ -18,55 +18,59 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 <h3 style="text-align: left;">☂️ All my stack: </h3>
 <br>
+<h4 style="text-align: left;">Frontend: </h4>
+<br>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> 
+   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+   <a href="https://reactjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
   </a>
-  <a href="github.com" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io/" target="_blank"> 
-    <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
-  </a>  
-  <a href="https://nodejs.org" target="_blank"> 
+     
+<br>
+<h4 style="text-align: left;">Backend: </h4>
+<br>
+<a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
   </a>
-   <a href="https://expressjs.com" target="_blank"> 
+  <a href="https://expressjs.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
-<a href="https://insomnia.rest/" target="_blank">
-    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
-  </a>
- <a href="https://www.sqlite.org/index.html" target="_blank">
+   <a href="https://www.sqlite.org/index.html" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" / width="40" height="40"/>
   </a>
  <a href="https://knexjs.org/" target="_blank">
    <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
+  </a>
+<br>
+<h4 style="text-align: left;">Tests: </h4>
+<a href="https://www.cypress.io/" target="_blank"> 
+    <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
+  </a>
+<a href="https://insomnia.rest/" target="_blank">
+    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
+  </a>
+<h4 style="text-align: left;"Version Code Control: </h4>
+<a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="github.com" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
   </a>  
   <br>
   <br>
 <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
 <br>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="40" height="40"/>
-  </a>
+ 
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
-  </a>  
-  <a href="https://vitejs.dev/" target="_blank">
-   <img src="https://www.svgrepo.com/show/354521/vitejs.svg" width="40" height="40"/> 
-  </a>  
-  <a href="https://styled-components.com/" target="_blank">
-   <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="40" height="40"/> 
   </a>  
 <br>
 <br>
@@ -83,12 +87,6 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
   <a href="https://graphql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
