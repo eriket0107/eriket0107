@@ -19,7 +19,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <h3 style="text-align: left;">☂️ All my stack: </h3>
 <br>
 
-#### Frontend:
+### Frontend:
 <br>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -63,7 +63,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 
 ### Version Code Control:
-<br>
+
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
