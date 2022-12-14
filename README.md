@@ -18,8 +18,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <br>
 <h3 style="text-align: left;">☂️ All my stack: </h3>
 <br>
-<h4 style="text-align: left;">Frontend: </h4>
-<br>
+##### Frontend:
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -34,8 +33,8 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
      
 <br>
-<h4 style="text-align: left;">Backend: </h4>
-<br>
+
+##### Backend:
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/> 
   </a>
@@ -49,14 +48,15 @@ Building a career in this area by improving my skills as a person and full-stack
    <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="40" height="40"/>
   </a>
 <br>
-<h4 style="text-align: left;">Tests: </h4>
+##### Tests
 <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="40" height="40"/>
   </a>
 <a href="https://insomnia.rest/" target="_blank">
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="40" height="40"/>
   </a>
-<h4 style="text-align: left;">Version Code Control: </h4>
+<br>
+##### Version Code Control:
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
