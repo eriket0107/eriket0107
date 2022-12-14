@@ -3,10 +3,10 @@
 <h2>I'm a young developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. 
 Building a career in this area by improving my skills as a person and full-stack developer challenging myself with new projects and inspiring ideas.</h2>
 <h3>📌 For now this is where I am:</h3>
-
 <h3 style="text-align: left;">🔭 I’m currently studying Web Development and software development techniques with all the most impactating technologies currently available</h3>
 <h3 style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</h3>
 <hr>
+
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -47,9 +47,9 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>  
   <br>
   <hr>
- 
+  
  <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
-<br>
+ 
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   </a>
@@ -59,7 +59,6 @@ Building a career in this area by improving my skills as a person and full-stack
 <a href="https://jestjs.io/pt-BR/" target="_blank"> 
     <img src="https://www.jetbrains.com/webstorm/guide/static/5fffc5841d0abba2e6684f13fe6d003f/jest.svg" width="40" height="40"/>
   </a>  
-<br>
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
 <br>
  <a href="https://reactnative.dev/" target="_blank">
@@ -79,7 +78,9 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
 <br>
 <hr>
+
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
+
 <p style="text-align: left;">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
@@ -91,7 +92,6 @@ Building a career in this area by improving my skills as a person and full-stack
     <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30" />
     <br>
   </a>
- 
    </p>
 
 
