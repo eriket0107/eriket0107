@@ -8,6 +8,7 @@ Building a career in this area by improving my skills as a person and full-stack
 <hr>
 
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
+<p>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -47,7 +48,7 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>  
   <br>
   <hr>
-  
+  </p>
  <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
  
   <a href="https://www.typescriptlang.org/">
