@@ -76,6 +76,12 @@ Building a career in this area by improving my skills as a person and full-stack
     <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" / width="40" height="40"/>
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+  </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
+   <img src="![image](https://user-images.githubusercontent.com/91575045/215874700-9b8e13fb-7fc5-436b-86c3-414456bded14.png)
+" / width="40" height="40"/>
+  </a>
 <br>
 <hr>
 
