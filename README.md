@@ -49,7 +49,7 @@ Building a career in this area by improving my skills as a person and full-stack
   <br>
   <hr>
   </p>
- <h3 style="text-align: left;">🌱 I’m currently learning:</h3>
+ <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
  
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
