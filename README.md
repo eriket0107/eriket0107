@@ -59,7 +59,11 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
 <a href="https://jestjs.io/pt-BR/" target="_blank"> 
     <img src="https://www.jetbrains.com/webstorm/guide/static/5fffc5841d0abba2e6684f13fe6d003f/jest.svg" width="40" height="40"/>
-  </a>  
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40" height="40"/>
+  </a>
+  
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
@@ -72,9 +76,6 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
   <a href="https://vuejs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
