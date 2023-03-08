@@ -45,7 +45,6 @@ Building a career in this area by improving my skills as a person and full-stack
   <a href="github.com" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   </a>
-  </a>  
   <br>
   <hr>
   </p>
@@ -53,6 +52,9 @@ Building a career in this area by improving my skills as a person and full-stack
  
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
@@ -70,9 +72,6 @@ Building a career in this area by improving my skills as a person and full-stack
   </a>
    <a href="https://nextjs.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
