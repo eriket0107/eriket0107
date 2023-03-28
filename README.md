@@ -96,7 +96,7 @@ Building a career in this area by improving my skills as a person and full-stack
     <br>
   </a>
    </p>
-   
+   <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriket0107)](https://github.com/anuraghazra/github-readme-stats)
 
