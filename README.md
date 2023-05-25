@@ -1,7 +1,6 @@
 ### Hello there! I'm Erik!! 👋😁
 
-<h3>I'm a young developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. 
-Building a career in this area by improving my skills as a person and full-stack developer challenging myself with new projects and inspiring ideas.</h3>
+<h3>I'm Erik, a young Software Developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. I’m 25 years old brazilian building a career in this area by improving my skills as a person and challenging myself with new projects and inspiring ideas. I would love to share my experiences about technology!</h3>
 <h3>📌 For now this is where I am:</h3>
 <h3 style="text-align: left;">🔭 I’m currently studying Web Development and software development techniques with all the most impactating technologies currently available</h3>
 <h3 style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</h3>
