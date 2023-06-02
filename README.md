@@ -59,7 +59,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
   </a>
 <a href="https://jestjs.io/pt-BR/" target="_blank"> 
-    <img src="https://www.jetbrains.com/webstorm/guide/static/5fffc5841d0abba2e6684f13fe6d003f/jest.svg" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/353930/jest.svg width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40" height="40"/>
