@@ -8,6 +8,9 @@
 
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <p>
+     <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -48,18 +51,15 @@
   <hr>
   </p>
  <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
- 
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+  <a href="https://nextjs.org/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   </a>
   <a href="https://graphql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="40" height="40"/> 
-  </a>
-<a href="https://jestjs.io/pt-BR/" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/353930/jest.svg width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="40" height="40"/>
@@ -69,14 +69,11 @@
  <a href="https://reactnative.dev/" target="_blank">
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="40" height="40"/>
   </a>
-   <a href="https://nextjs.org/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
   <a href="https://vuejs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   </a>
 <br>
 <hr>
