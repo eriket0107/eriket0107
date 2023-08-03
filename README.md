@@ -18,7 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="25" height="25"/>
   </a>    
    <a href="https://styled-components.com/" target="_blank">
-    <img src=" ![image](https://github.com/eriket0107/eriket0107/assets/91575045/1b3b0905-50b8-48e9-b913-93a42238a87d) "  alt="react" width="25" height="25"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"  alt="react" width="25" height="25"/>
   </a>    
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="25" height="25"/> 
