@@ -2,8 +2,8 @@
 
 <p>A young Software Developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. Building a career in this area by improving my skills as a person and challenging myself with new projects and inspiring ideas. I would love to share my experiences about technology!</p>
 <h3>📌 For now this is where I am:</h3>
-<h3 style="text-align: left;">🔭 I’m currently studying Web Development and software development techniques with all the most impactating technologies currently available</h3>
-<h3 style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</h3>
+<p style="text-align: left;">🔭 I’m currently studying Web Development and software development techniques with all the most impactating technologies currently available</p>
+<p style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</p>
 <hr>
 
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
