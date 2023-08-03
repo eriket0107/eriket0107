@@ -14,17 +14,11 @@
 <a href="https://nextjs.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25"/>
 </a>
-<a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> 
-  </a>
-   <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25"/> 
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
-  </a>
    <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="25" height="25"/>
+  </a>    
+   <a href="https://styled-components.com/" target="_blank">
+    <img src=" ![image](https://github.com/eriket0107/eriket0107/assets/91575045/1b3b0905-50b8-48e9-b913-93a42238a87d) "  alt="react" width="25" height="25"/>
   </a>    
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="25" height="25"/> 
@@ -41,14 +35,8 @@
 <a href="https://www.cypress.io/" target="_blank"> 
     <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="25" height="25"/>
   </a>
-<a href="https://insomnia.rest/" target="_blank">
-    <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="postman" width="25" height="25"/>
-  </a>
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
-  </a>
-  <a href="github.com" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25"/>
   </a>
   <br>
   <hr>
