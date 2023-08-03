@@ -8,9 +8,12 @@
 
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <p>
-     <a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+</a>
 <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -51,10 +54,6 @@
   <hr>
   </p>
  <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
-
-  <a href="https://nextjs.org/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  </a>
   <a href="https://graphql.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40"/>
   </a>
