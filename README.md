@@ -42,7 +42,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
   </a>
   <br>
-  <hr>
   </p>
  <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
   <a href="https://graphql.org/">
@@ -66,7 +65,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25" height="25"/>
   </a>
 <br>
-<hr>
 
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
 
