@@ -78,7 +78,7 @@
    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram logo 2516.svg" height="30" width="30" />   
   </a>
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282525%29.svg" height="30" width="30" />
+    <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30" width="30" />
     <br>
   </a>
    </p>
