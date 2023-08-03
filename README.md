@@ -20,6 +20,9 @@
    <a href="https://styled-components.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"  alt="react" width="25" height="25"/>
   </a>    
+   <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"  alt="react" width="25" height="25"/>
+  </a>    
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="25" height="25"/> 
   </a>
