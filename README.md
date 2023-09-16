@@ -2,7 +2,7 @@
 
 <p>A young Software Developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. Building a career in this area by improving my skills as a person and challenging myself with new projects and inspiring ideas. I would love to share my experiences about technology!</p>
 <h3>📌 For now this is where I am:</h3>
-<p style="text-align: left;">🔭 I’m currently studying Web Development and software development techniques with all the most impactating technologies currently available</p>
+<p style="text-align: left;">🔭 I currently work as a Software Engineer, with a strong focus on front-end development, while also occasionally contributing to back-end tasks. Before this, I transitioned into a development role from my previous experience as a QA Test Developer, where I introduced testing practices using Cypress. My current responsibilities involve enhancing features for a shopping mall parking project, including functionalities like app-based parking ticket payments and license plate recognition for parking access.</p>
 <p style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</p>
 <hr>
 
