@@ -41,12 +41,12 @@
 <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
   </a>
+    <a href="https://graphql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="25" height="25"/>
+  </a>
   <br>
   </p>
  <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
-  <a href="https://graphql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="25" height="25"/>
-  </a>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="25" height="25"/> 
   </a>
