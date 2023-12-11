@@ -6,6 +6,8 @@
 <p style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</p>
 <hr>
 
+<div style="display: flex; gap: 8;">
+    
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <p>
 <a href="https://www.typescriptlang.org/">
@@ -46,6 +48,7 @@
   </a>
   <br>
   </p>
+</div>
  <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
  <a href="https://www.docker.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="25" height="25"/> 
