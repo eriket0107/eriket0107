@@ -6,12 +6,13 @@
 <p style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</p>
 <hr>
 
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+
+
 <div style="display: flex; gap: 8;">
     
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <p>
-    ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-    
 <a href="https://nextjs.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25"/>
 </a>
