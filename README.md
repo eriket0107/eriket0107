@@ -47,15 +47,17 @@
 
 ![Static Badge](https://img.shields.io/badge/React%20Native-%230088CC?style=for-the-badge&logo=react&labelColor=gray&link=https%3A%2F%2Freactnative.dev%2F)
 ![Static Badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=for-the-badge&logo=amazon&labelColor=gray&link=https%3A%2F%2Faws.amazon.com%2Fpt%2Ffree%2F%3Fgclid%3DCjwKCAiAopuvBhBCEiwAm8jaMV-lDMiwqb2aMFrC2_bvp8Kf3mf6YwbjwnMmtmlRoSmyrmKhEEv07xoCZLAQAvD_BwE%26trk%3D2ee11bb2-bc40-4546-9852-2c4ad8e8f646%26sc_channel%3Dps%26ef_id%3DCjwKCAiAopuvBhBCEiwAm8jaMV-lDMiwqb2aMFrC2_bvp8Kf3mf6YwbjwnMmtmlRoSmyrmKhEEv07xoCZLAQAvD_BwE%3AG%3As%26s_kwcid%3DAL!4422!3!561843094929!e!!g!!aws!15278604629!130587771740%26all-free-tier.sort-by%3Ditem.additionalFields.SortRank%26all-free-tier.sort-order%3Dasc%26awsf.Free%2520Tier%2520Types%3D*all%26awsf.Free%2520Tier%2520Categories%3D*all)
+![Static Badge](https://img.shields.io/badge/Bun-%23000000?style=for-the-badge&logo=bun&labelColor=gray)
+
 
 <h3 style="text-align: left;">👀 Beyond my current stack, I'm also interested in...</h3>
 
+![Static Badge](https://img.shields.io/badge/Elixir-%234B275F?style=for-the-badge&logo=elixir&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Ruby%20on%20Rails-%23D30001?style=for-the-badge&logo=rubyonrails&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=gray&link=https%3A%2F%2Fwww.python.org%2F)
 ![Static Badge](https://img.shields.io/badge/CSHARP-%23512BD4?style=for-the-badge&logo=C%23&labelColor=gray&link=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Fdotnet%2Fcsharp%2F)
 ![Static Badge](https://img.shields.io/badge/Vue.Js-%234FC08D?style=for-the-badge&logo=vue.js&labelColor=gray&link=https%3A%2F%2Fvuejs.org%2F)
-
 
 <br>
 
