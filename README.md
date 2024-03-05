@@ -15,11 +15,9 @@
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 
 
-
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&labelColor=gray&link=https%3A%2F%2Freact.dev%2F)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=gray&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
-![Static Badge](https://img.shields.io/badge/Next.Js-%23000000?style=flat&logo=next.js&labelColor=gray&link=https%3A%2F%2Fnextjs.org%2F)
+![Static Badge](https://img.shields.io/badge/Next.Js-%23000000?style=flat&logo=next.js&labelColor=gray&link=https%3A%2F%2Fnextjs.org%2F&width=50&height=50)
 
 
 
