@@ -6,8 +6,6 @@
 <p style="text-align: left;">💬 Come ask me about anything, it would be my pleasure to speak with you!</p>
 <hr>
 
-![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&labelColor=gray)
 
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
 
@@ -15,6 +13,16 @@
 <div style="display: flex; gap: 8;">
     
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
+
+
+
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&labelColor=gray&link=https%3A%2F%2Freact.dev%2F)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=gray&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![Static Badge](https://img.shields.io/badge/Next.Js-%23000000?style=flat&logo=next.js&labelColor=gray&link=https%3A%2F%2Fnextjs.org%2F)
+
+
+
 <p>
 <a href="https://nextjs.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25"/>
