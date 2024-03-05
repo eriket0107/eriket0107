@@ -10,9 +10,7 @@
     
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 <p>
-<a href="https://www.typescriptlang.org/">
-   ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-</a>
+![Static Badge](https://img.shields.io/badge/TypeScript-blue)
 <a href="https://nextjs.org/" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25"/>
 </a>
