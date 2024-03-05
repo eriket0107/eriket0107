@@ -50,6 +50,7 @@
 
 <h3 style="text-align: left;">👀 Beyond my current stack, I'm also interested in...</h3>
 
+![Static Badge](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=gray&link=https%3A%2F%2Fwww.python.org%2F)
 ![Static Badge](https://img.shields.io/badge/CSHARP-%23512BD4?style=for-the-badge&logo=C%23&labelColor=gray&link=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Fdotnet%2Fcsharp%2F)
 ![Static Badge](https://img.shields.io/badge/Vue.Js-%234FC08D?style=for-the-badge&logo=vue.js&labelColor=gray&link=https%3A%2F%2Fvuejs.org%2F)
