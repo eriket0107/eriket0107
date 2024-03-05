@@ -7,17 +7,15 @@
 <hr>
 
 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
-
 
 <div style="display: flex; gap: 8;">
     
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 
-
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&labelColor=gray&link=https%3A%2F%2Freact.dev%2F)
-![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=typescript&labelColor=gray&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
-![Static Badge](https://img.shields.io/badge/Next.Js-%23000000?style=flat&logo=next.js&labelColor=gray&link=https%3A%2F%2Fnextjs.org%2F)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=gray&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=gray&link=https%3A%2F%2Freact.dev%2F)
+![Static Badge](https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&labelColor=gray&link=https%3A%2F%2Fstyled-components.com%2F)
 
 
 
