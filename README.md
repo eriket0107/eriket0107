@@ -58,18 +58,15 @@
 <br>
 
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
-<p style="display: flex; gap="8px">
   <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
-  <a href="https://instagram.com/eaoerik" target="blank" color="FFFFFF">
-   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram logo 2516.svg" height="30" width="30" />   
-  </a>
+
   <a href="mailto:ol.erik0107@gmail.com" target="blank" color="FFFFFF">
     <img style="text-align: center;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="30" width="30" />
     <br>
   </a>
-   </p>
+  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriket0107)](https://github.com/anuraghazra/github-readme-stats)
