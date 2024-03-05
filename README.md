@@ -12,68 +12,48 @@
     
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=gray&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FJavaScript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&labelColor=gray&link=https%3A%2F%2Fwww.typescriptlang.org%2F)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Zod-%233E67B1?style=for-the-badge&logo=zod&labelColor=gray&link=https%3A%2F%2Fzod.dev%2F)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=gray&link=https%3A%2F%2Freact.dev%2F)
+![Static Badge](https://img.shields.io/badge/Next.Js-%23000000?style=for-the-badge&logo=next.js&labelColor=gray&link=https%3A%2F%2Fnextjs.org%2F)
+![Static Badge](https://img.shields.io/badge/React%20Hook%20Form%20-%23EC5990?style=for-the-badge&logo=reacthookform&labelColor=gray&link=https%3A%2F%2Freact-hook-form.com%2F)
+![Static Badge](https://img.shields.io/badge/React%20Router%20%20-%23CA4245?style=for-the-badge&logo=reactrouter&labelColor=gray&link=https%3A%2F%2Freactrouter.com%2Fen%2Fmain)
+![Static Badge](https://img.shields.io/badge/Tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=gray&link=https%3A%2F%2Ftailwindcss.com%2F)
 ![Static Badge](https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&labelColor=gray&link=https%3A%2F%2Fstyled-components.com%2F)
+![Static Badge](https://img.shields.io/badge/Node.Js-%23339933?style=for-the-badge&logo=node.js&labelColor=gray&link=https%3A%2F%2Fnodejs.org%2Fen)
+![Static Badge](https://img.shields.io/badge/Express.Js-%23000000?style=for-the-badge&logo=express&labelColor=gray&link=https%3A%2F%2Fexpressjs.com%2Fpt-br%2F)
+![Static Badge](https://img.shields.io/badge/Fastify-%23000000?style=for-the-badge&logo=fastify&labelColor=gray&link=https%3A%2F%2Ffastify.dev%2F)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&labelColor=gray&link=https%3A%2F%2Fwww.postgresql.org%2Fdocs%2F)
+![Static Badge](https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&labelColor=gray&link=https%3A%2F%2Fwww.prisma.io%2F)
+![Static Badge](https://img.shields.io/badge/Knex-%23D26B38?style=for-the-badge&logo=knex.js&labelColor=gray&link=https%3A%2F%2Fknexjs.org%2F)
+![Static Badge](https://img.shields.io/badge/GraphQL-%23E10098?style=for-the-badge&logo=graphql&labelColor=gray&link=https%3A%2F%2Fgraphql.org%2F)
+![Static Badge](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&labelColor=gray&link=https%3A%2F%2Fjestjs.io%2Fpt-BR%2F)
+![Static Badge](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=vitest&labelColor=gray&link=https%3A%2F%2Fvitest.dev%2F)
+![Static Badge](https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&labelColor=gray&link=https%3A%2F%2Fwww.cypress.io%2F)
+![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&labelColor=gray&link=https%3A%2F%2Fgit-scm.com%2F)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&labelColor=gray&link=https%3A%2F%2Fwww.docker.com%2F)
 
 
+<h3 style="text-align: left;">🌱 I’m currently studying:</h3>
 
-<p>
-<a href="https://nextjs.org/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="25" height="25"/>
-</a>
-   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="react" width="25" height="25"/>
-  </a>    
-   <a href="https://styled-components.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"  alt="react" width="25" height="25"/>
-  </a>    
-   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg"  alt="react" width="25" height="25"/>
-  </a>    
-<a href="https://nodejs.org" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="25" height="25"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="25" height="25"/>
-  </a>
-   <a href="https://www.sqlite.org/index.html" target="_blank">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" / width="25" height="25"/>
-  </a>
- <a href="https://knexjs.org/" target="_blank">
-   <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png?v=637829616460000000" / width="25" height="25"/>
-  </a>
-<a href="https://www.cypress.io/" target="_blank"> 
-    <img src="https://miro.medium.com/max/364/0*JAWNOBEDxJLXxHUj.png" width="25" height="25"/>
-  </a>
-<a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="25" height="25"/> 
-  </a>
-    <a href="https://graphql.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="25" height="25"/>
-  </a>
-  <br>
-  </p>
-</div>
- <h3 style="text-align: left;">🌱 I’m currently studying:</h3>
- <a href="https://www.docker.com/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"width="25" height="25"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="25" height="25"/>
-  </a>
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&labelColor=gray&link=https%3A%2F%2Fwww.mongodb.com%2F)
+![Static Badge](https://img.shields.io/badge/NestJs-%23E0234E?style=for-the-badge&logo=nestjs&labelColor=gray&link=https%3A%2F%2Fnestjs.com%2F)
+
   
 <h3 style="text-align: left;">🎯 I’m really excited to learn: </h3>
- <a href="https://reactnative.dev/" target="_blank">
-   <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" / width="25" height="25"/>
-  </a>
-  <a href="https://vuejs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="25" height="25"/>
-  </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="25" height="25"/>
-  </a>
+
+![Static Badge](https://img.shields.io/badge/React%20Native-%230088CC?style=for-the-badge&logo=react&labelColor=gray&link=https%3A%2F%2Freactnative.dev%2F)
+![Static Badge](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?style=for-the-badge&logo=amazon&labelColor=gray&link=https%3A%2F%2Faws.amazon.com%2Fpt%2Ffree%2F%3Fgclid%3DCjwKCAiAopuvBhBCEiwAm8jaMV-lDMiwqb2aMFrC2_bvp8Kf3mf6YwbjwnMmtmlRoSmyrmKhEEv07xoCZLAQAvD_BwE%26trk%3D2ee11bb2-bc40-4546-9852-2c4ad8e8f646%26sc_channel%3Dps%26ef_id%3DCjwKCAiAopuvBhBCEiwAm8jaMV-lDMiwqb2aMFrC2_bvp8Kf3mf6YwbjwnMmtmlRoSmyrmKhEEv07xoCZLAQAvD_BwE%3AG%3As%26s_kwcid%3DAL!4422!3!561843094929!e!!g!!aws!15278604629!130587771740%26all-free-tier.sort-by%3Ditem.additionalFields.SortRank%26all-free-tier.sort-order%3Dasc%26awsf.Free%2520Tier%2520Types%3D*all%26awsf.Free%2520Tier%2520Categories%3D*all)
+
+<h3 style="text-align: left;">👀 Beyond my current stack, I'm also interested in...</h3>
+
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=gray&link=https%3A%2F%2Fwww.python.org%2F)
+![Static Badge](https://img.shields.io/badge/CSHARP-%23512BD4?style=for-the-badge&logo=C%23&labelColor=gray&link=https%3A%2F%2Flearn.microsoft.com%2Fpt-br%2Fdotnet%2Fcsharp%2F)
+![Static Badge](https://img.shields.io/badge/Vue.Js-%234FC08D?style=for-the-badge&logo=vue.js&labelColor=gray&link=https%3A%2F%2Fvuejs.org%2F)
+
+
 <br>
 
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
