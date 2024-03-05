@@ -9,7 +9,7 @@
 
 
 
-<div style="display: flex; gap: 8;">
+<div style="display: flex; gap: 8px;">
     
 <h3 style="text-align: left;">☂️ All my knowlegde so far: </h3>
 
