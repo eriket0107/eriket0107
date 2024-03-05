@@ -7,7 +7,8 @@
 <hr>
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-blue)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-%2361DAFB?logo=react&labelColor=gray
+)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white)
 
 
