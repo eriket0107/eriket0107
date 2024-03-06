@@ -61,6 +61,7 @@
 ![Static Badge](https://img.shields.io/badge/Ruby%20on%20Rails-%23D30001?style=for-the-badge&logo=rubyonrails&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&labelColor=gray)
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&labelColor=gray)
+![Static Badge](https://img.shields.io/badge/Astro-%23BC52EE?style=for-the-badge&logo=astro&labelColor=gray)
 
 <br>
 
