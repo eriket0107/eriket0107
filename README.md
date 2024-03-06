@@ -1,5 +1,5 @@
 <h1>
-    Hello there! I'm Erik!! <img src="https://github.com/eriket0107/eriket0107/assets/91575045/a84014a5-6e51-4004-8ffe-7da90568adce" width="20"  height="20"/> 😁
+    Hello there! I'm Erik!! <img src="https://github.com/eriket0107/eriket0107/assets/91575045/a84014a5-6e51-4004-8ffe-7da90568adce" width="30"  height="30"/> 😁
 </h1> 
 
 
