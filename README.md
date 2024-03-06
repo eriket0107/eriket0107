@@ -1,6 +1,4 @@
-### Hello there! I'm Erik!! 
-
-
+### Hello there! I'm Erik!!  
 <img src="https://github.com/eriket0107/eriket0107/assets/91575045/a84014a5-6e51-4004-8ffe-7da90568adce" width="20"  height="20"/> 😁
 
 p>A young Software Developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. Building a career in this area by improving my skills as a person and challenging myself with new projects and inspiring ideas. I would love to share my experiences about technology!</p>
