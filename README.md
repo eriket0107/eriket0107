@@ -1,5 +1,5 @@
 ### Hello there! I'm Erik!! 
-[👋](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif) 😁
+[](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif) 😁
 
 <p>A young Software Developer professional interested in technology and diferents subjects related to this enviroment, mainly software & application development. Building a career in this area by improving my skills as a person and challenging myself with new projects and inspiring ideas. I would love to share my experiences about technology!</p>
 
