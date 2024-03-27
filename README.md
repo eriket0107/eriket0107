@@ -2,6 +2,7 @@
     Hello there! I'm Erik!! <img src="https://github.com/eriket0107/eriket0107/assets/91575045/a84014a5-6e51-4004-8ffe-7da90568adce" width="30"  height="30"/>😁
 </h1> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eriket01071&label=Profile%20views&color=0e75b6&style=flat" alt="eriket0107" /> </p>
 
 <p>As a Software Developer, I'm really into technology and all the different things it touches on. My main goal is to get better at software and app development, and I'm all about taking on new challenges. I'm motivated by wanting to share my experiences and ideas with the tech community in a way that really makes a difference!</p>
 
