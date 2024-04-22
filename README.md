@@ -67,7 +67,7 @@
 <br>
 
 <h3 style="text-align: left;">🌐 As far as social media goes, you can find me in these:</h3>
-  <a href="https://www.linkedin.com/in/erik-oliveira-9aa589183/" target="blank" color="FFFFFF">
+  <a href="https://www.linkedin.com/in/oliveira-erik/" target="blank" color="FFFFFF">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
   </a>
 
